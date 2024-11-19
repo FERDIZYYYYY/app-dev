@@ -1,2 +1,4 @@
 # app-dev
-My first repository
+Paranormal Activity Series
+The Twilight Saga
+The Fast and the Furious
